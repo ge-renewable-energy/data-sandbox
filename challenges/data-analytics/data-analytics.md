@@ -9,5 +9,17 @@
     - `la-haute-borne-data-2018.csv`
     - `la-haute-borne-static-information.csv`
     - `data-description.csv`
-<i>Refer to repository `readme` for information additional information on data sets </i>
+<br />
+<i>Refer to repository `readme` for additional information on data sets </i>
+
+#### Challenge
+<i>Complete challenge using Python Jupyter Notebook(s)</i>
+
+The Fleet Operations team believe there are performance issues at the La Haute Borne site. They would like some deeper insights into how the turbines operated in January 2018. The following is a list analyses and reports to the team would like to view.
+
+1. To get an idea about the quality of the data, Fleet Operations would like the report to include the number of records in the data set.
+
+2. By understanding what wind speeds the turbines encountered provides the team with some information on how the turbines could have performed. To this end, provide a table showing the max `Ws_avg` grouped by turbine. Please ensure to also include the `Wind_turbine_long_name` in addition to `Wind_turbine_name` in the table.
+
+
 
