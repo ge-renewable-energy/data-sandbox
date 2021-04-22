@@ -9,4 +9,5 @@
     - `la-haute-borne-data-2018.csv`
     - `la-haute-borne-static-information.csv`
     - `data-description.csv`
+<i> Refer to repository `readme` for information additional information on data sets </i>
 
