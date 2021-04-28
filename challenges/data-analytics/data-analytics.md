@@ -23,4 +23,13 @@ The Fleet Operations team believe there are performance issues at the La Haute B
 
 3. Circling back on data quality, report on percent of records collected in the month of January 2018 by turbine. Keep in mind that we expect to collect 6 records every 10 minutes across the month.
 
+4. Provide a line graph of `Ws_avg` for turbine `R80711`. On the graph, add a horizontal line to indicate the 10 meters per second threshold.
+
+5. Create a function that can quickly find consistently high outliers for a given attribute. The function should contain the following:
+   - Take a dataframe, a selected column string, threshold number and number of record number as parameters
+   - Defaults on parameter should be `selected column = Ws_avg`, `threshold number = 10` and `number of records = 10`
+   - Find one case (index of records) where selected column in dataframe has been consistently higher than threshold for atleast the duration (number of records)
+   - Return indecies for first occurence
+   - Test with more than one turbine
+
 
