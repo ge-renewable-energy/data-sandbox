@@ -21,7 +21,7 @@ The Fleet Operations team believe there are performance issues at the La Haute B
 
 2. By understanding what wind speeds the turbines encountered provides the team with some information on how the turbines could have performed. To this end, provide a table showing the max `Ws_avg` grouped by turbine. Please ensure to also include the `Wind_turbine_long_name` in addition to `Wind_turbine_name` in the table.
 
-3. Circling back on data quality, report on percent of records collected in the month of January 2018 by turbine. Keep in mind that we expect to collect 6 records every 10 minutes across the month.
+3. Circling back on data quality, report on percent of records collected in the month of January 2018 by turbine. Keep in mind that we expect to collect 6 records every hour across the month.
 
 4. Provide a line graph of `Ws_avg` for turbine `R80711`. On the graph, add a horizontal line to indicate the 10 meters per second threshold.
 
