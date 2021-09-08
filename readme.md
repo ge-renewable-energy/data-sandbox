@@ -11,3 +11,12 @@ The included data sets are:
 - `la-haute-borne-data-2018.csv` - sensor data recorded at 10 minute intervals
 - `data-description.csv` - description of columns in sensor data file
 - `la-haute-borne-static-information.csv` - information about individual assets/wind turbine
+
+
+#### Tools
+
+##### Drawing
+https://draw.io
+
+##### Notebook
+https://jupyter.org/try
