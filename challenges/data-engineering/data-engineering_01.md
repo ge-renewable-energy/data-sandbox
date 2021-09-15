@@ -7,7 +7,7 @@ Complete challenge using:
 
 #### Scenario
 
-Fleet Operations needs an asset monitoring system for the wind turbine fleet they support. The team would like to consume key metrics from a web dashboard with daily, weekly, monthly, and yearly resolutions of key metrics (Availability, Reliability etc.)
+Fleet Operations needs an asset monitoring system for the wind turbine fleet they support. The team would like to consume key metrics (Availability, Reliability etc.) from a web dashboard with daily, weekly, monthly, and yearly resolutions.
 
 The system must have the ability to:
 - Collect timeseries data from wind turbines (based on dataset provided)
@@ -24,7 +24,7 @@ The system must have the ability to:
 
 2. Create a diagram that shows the entities and relationships between data sets in the system.
 
-3. Write out the SQL statement to create the timeseries entity (include only 5 columns) in a database.
+3. Write out the SQL statement to create the timeseries entity (include only 5 columns) in a database based on data set provided.
 
 4. Create a script to extract `DateTime` plus select columns of timeseries data provided, then save to Parquet.
 
